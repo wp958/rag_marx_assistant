@@ -6,3 +6,4 @@ src/vector_db/
 data/capital.txt
 .vscode/
 .idea/
+uploads/

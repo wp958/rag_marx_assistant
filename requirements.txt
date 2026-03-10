@@ -1,0 +1,8 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+tqdm==4.66.1
+chromadb==0.4.24
+sentence-transformers==2.7.0
+openai==1.30.0
+flask==3.0.3

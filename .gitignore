@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+src/rag_chunks/
+src/vector_db/
+data/capital.txt
+.vscode/
+.idea/

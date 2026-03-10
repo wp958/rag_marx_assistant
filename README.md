@@ -29,7 +29,6 @@
 ---
 
 ## 系统架构
-text
 
                 ┌─────────────────────────────────────────┐
                 │            用户提问                      │
@@ -76,7 +75,6 @@ text
 │ AI回答 + 原文引用 │
 └─────────────────────┘
 
-text
 
 
 ---
@@ -144,7 +142,6 @@ rag_marx_assistant/
 ├── README.md
 └── LICENSE
 
-text
 
 
 ---
@@ -250,6 +247,10 @@ text
 │  │     Standard  /  Deep Analysis  /  Concise        │   │
 │  └───────────────────────────────────────────────────┘   │
 └──────────────────────────────────────────────────────────┘
+```markdown
+## 相关项目
+
+[AI Research Agent](https://github.com/wp958/ai_research_agent) - 基于本项目知识库的 AI Agent 系统，将 RAG 检索作为 Agent 的一个工具，实现多工具自主决策。
 License
 MIT License
 
@@ -257,3 +258,4 @@ MIT License
 GitHub: @wp958
 
 如有问题欢迎提 Issue！
+
